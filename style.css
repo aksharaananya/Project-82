@@ -1,0 +1,10 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+#myCanvas{
+    border-width: 10px;
+    background-color: aliceblue;
+    border-style: ridge;
+}
+
